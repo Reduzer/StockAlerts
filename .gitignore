@@ -1,2 +1,11 @@
+# Config files
 *.env
 config.json
+
+# Debug things
+bin/
+Debug/
+
+# SQL Stuff
+*.mdf
+*.ldf
