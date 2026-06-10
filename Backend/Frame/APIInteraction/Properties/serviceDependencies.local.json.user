@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "redis1": {
+      "restored": true,
+      "restoreTime": "2026-06-10T16:09:35.9764335Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2026-06-10T16:08:40.1372297Z"
+    },
+    "sqlite1": {
+      "restored": true,
+      "restoreTime": "2026-06-10T16:15:28.3954852Z"
+    }
+  },
+  "parameters": {}
+}

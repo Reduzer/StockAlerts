@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Analysis/Analysis.fsproj" Id="ec02b70e-9135-4055-9783-952f3e573efa" />
+  <Project Path="../DBConnection/DBConnection.csproj" Id="592ea776-3ea5-4cc4-9b7b-b8bb779f516f" />
+  <Project Path="../Logging/Logging.vcxproj" />
+  <Project Path="../Objects/Objects.vcxproj" />
+  <Project Path="APIInteraction/APIInteraction.csproj" Id="506f26b0-e23e-48fa-999b-1b338477ba04" />
+  <Project Path="Frame/Frame.vcxproj" />
+  <Project Path="Shared/Shared.vcxproj" />
+</Solution>

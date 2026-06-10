@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+CjD9DZPsM=",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\StockAlerts\\Backend\\Analysis\\Analysis.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fynde\\.nuget\\packages\\fsharp.core\\10.1.301\\fsharp.core.10.1.301.nupkg.sha512"
+  ],
+  "logs": []
+}
