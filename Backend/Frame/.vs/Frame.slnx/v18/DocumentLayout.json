@@ -3,19 +3,25 @@
   "WorkspaceRootPath": "C:\\DEV\\StockAlerts\\Backend\\Frame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{854C48F0-4CE0-2286-11EF-43D31AC2AC71}|Frame\\Frame.vcxproj|C:\\DEV\\StockAlerts\\Backend\\Frame\\Frame\\LoadBalancing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{854C48F0-4CE0-2286-11EF-43D31AC2AC71}|Frame\\Frame.vcxproj|solutionrelative:Frame\\LoadBalancing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\dbconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F2D150-B4BE-4B77-FF90-F438A186374A}|Shared\\Shared.vcxproj|C:\\DEV\\StockAlerts\\Backend\\Frame\\Shared\\EnumCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7F2D150-B4BE-4B77-FF90-F438A186374A}|Shared\\Shared.vcxproj|solutionrelative:Shared\\EnumCollection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0EC89EA-0153-D4B1-9E92-9B322E829346}|..\\Objects\\Objects.vcxproj|C:\\DEV\\StockAlerts\\Backend\\Objects\\Company.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\files\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506F26B0-E23E-48FA-999B-1B338477BA04}|APIInteraction\\APIInteraction.csproj|c:\\dev\\stockalerts\\backend\\frame\\apiinteraction\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{506F26B0-E23E-48FA-999B-1B338477BA04}|APIInteraction\\APIInteraction.csproj|solutionrelative:apiinteraction\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\nosql\\nosqlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\sql\\sqlhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\redis\\redisinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\redis\\redisconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +31,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\Program.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Program.cs",
+              "RelativeToolTip": "..\\DBConnection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:07:56.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\DBConnection.csproj",
+              "RelativeDocumentMoniker": "..\\DBConnection\\DBConnection.csproj",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\DBConnection.csproj",
+              "RelativeToolTip": "..\\DBConnection\\DBConnection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T00:07:40.203Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -34,53 +66,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Company.h",
-              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\Objects\\Company.h",
-              "RelativeDocumentMoniker": "..\\Objects\\Company.h",
-              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\Objects\\Company.h",
-              "RelativeToolTip": "..\\Objects\\Company.h",
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Files\\FileHandler.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\Files\\FileHandler.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Files\\FileHandler.cs",
+              "RelativeToolTip": "..\\DBConnection\\Files\\FileHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-10T17:04:39.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnumCollection.h",
-              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Shared\\EnumCollection.h",
-              "RelativeDocumentMoniker": "Shared\\EnumCollection.h",
-              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Shared\\EnumCollection.h",
-              "RelativeToolTip": "Shared\\EnumCollection.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-10T16:27:57.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoadBalancing.h",
-              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Frame\\LoadBalancing.h",
-              "RelativeDocumentMoniker": "Frame\\LoadBalancing.h",
-              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Frame\\LoadBalancing.h",
-              "RelativeToolTip": "Frame\\LoadBalancing.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-10T16:25:26.587Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:07:46.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "greet.proto",
-              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\Frame\\APIInteraction\\Protos\\greet.proto",
-              "RelativeDocumentMoniker": "APIInteraction\\Protos\\greet.proto",
-              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\Frame\\APIInteraction\\Protos\\greet.proto",
-              "RelativeToolTip": "APIInteraction\\Protos\\greet.proto",
+              "Title": "NoSQLHandler.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\NoSQL\\NoSQLHandler.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\NoSQL\\NoSQLHandler.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\NoSQL\\NoSQLHandler.cs",
+              "RelativeToolTip": "..\\DBConnection\\NoSQL\\NoSQLHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:05:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLHandler.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\SQL\\SQLHandler.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\SQL\\SQLHandler.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\SQL\\SQLHandler.cs",
+              "RelativeToolTip": "..\\DBConnection\\SQL\\SQLHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2026-06-10T16:23:58.859Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:05:00.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisInteraction.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisInteraction.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\Redis\\RedisInteraction.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisInteraction.cs",
+              "RelativeToolTip": "..\\DBConnection\\Redis\\RedisInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:04:15.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisConnector.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisConnector.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\Redis\\RedisConnector.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisConnector.cs",
+              "RelativeToolTip": "..\\DBConnection\\Redis\\RedisConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:03:52.044Z",
               "EditorCaption": ""
             }
           ]

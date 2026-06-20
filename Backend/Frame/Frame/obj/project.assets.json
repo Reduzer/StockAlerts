@@ -186,7 +186,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Frame\\Frame.vcxproj",
-      "projectName": "Frame",
+      "projectName": "LoadBalancer",
       "projectPath": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Frame\\Frame.vcxproj",
       "packagesPath": "C:\\Users\\fynde\\.nuget\\packages\\",
       "outputPath": "C:\\DEV\\StockAlerts\\Backend\\Frame\\Frame\\obj\\",
