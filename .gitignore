@@ -9,3 +9,11 @@ Debug/
 # SQL Stuff
 *.mdf
 *.ldf
+
+# Visual Studio Things
+vs/
+idea/
+obj/
+x64/
+*.user
+*.aps
