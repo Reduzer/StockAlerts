@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\DEV\\StockAlerts\\Backend\\Frame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\redis\\redisinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\redis\\redisconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\redis\\redisconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{592EA776-3EA5-4CC4-9B7B-B8BB779F516F}|..\\DBConnection\\DBConnection.csproj|c:\\dev\\stockalerts\\backend\\dbconnection\\files\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fynde\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f271c5d-ed0b-4a2c-9d13-edd52c61c438\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,36 +19,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RedisInteraction.cs",
-              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisInteraction.cs",
-              "RelativeDocumentMoniker": "..\\DBConnection\\Redis\\RedisInteraction.cs",
-              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisInteraction.cs",
-              "RelativeToolTip": "..\\DBConnection\\Redis\\RedisInteraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T00:04:15.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "RedisConnector.cs",
               "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisConnector.cs",
               "RelativeDocumentMoniker": "..\\DBConnection\\Redis\\RedisConnector.cs",
               "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Redis\\RedisConnector.cs",
               "RelativeToolTip": "..\\DBConnection\\Redis\\RedisConnector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T00:03:52.044Z",
+              "WhenOpened": "2026-07-06T22:58:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\fynde\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f271c5d-ed0b-4a2c-9d13-edd52c61c438\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\fynde\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f271c5d-ed0b-4a2c-9d13-edd52c61c438\\secrets.json",
+              "ToolTip": "C:\\Users\\fynde\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f271c5d-ed0b-4a2c-9d13-edd52c61c438\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\fynde\\AppData\\Roaming\\Microsoft\\UserSecrets\\6f271c5d-ed0b-4a2c-9d13-edd52c61c438\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-06T22:36:07.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Files\\FileHandler.cs",
+              "RelativeDocumentMoniker": "..\\DBConnection\\Files\\FileHandler.cs",
+              "ToolTip": "C:\\DEV\\StockAlerts\\Backend\\DBConnection\\Files\\FileHandler.cs",
+              "RelativeToolTip": "..\\DBConnection\\Files\\FileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T22:35:41.796Z",
               "EditorCaption": ""
             }
           ]
