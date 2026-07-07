@@ -11,7 +11,7 @@ Debug/
 *.ldf
 
 # Visual Studio Things
-vs/
+.vs/
 idea/
 obj/
 x64/
